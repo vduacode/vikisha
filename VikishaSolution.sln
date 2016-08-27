@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSandbag", "ConsoleSandbag\ConsoleSandbag.csproj", "{0B1E47A3-1853-44A9-B324-C0B5EB630F0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vkisha.utils", "vkisha.utils\vkisha.utils.csproj", "{AA5F7C02-16D9-4CA9-8FFD-A43C72D99F27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0B1E47A3-1853-44A9-B324-C0B5EB630F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B1E47A3-1853-44A9-B324-C0B5EB630F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B1E47A3-1853-44A9-B324-C0B5EB630F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA5F7C02-16D9-4CA9-8FFD-A43C72D99F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5F7C02-16D9-4CA9-8FFD-A43C72D99F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5F7C02-16D9-4CA9-8FFD-A43C72D99F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5F7C02-16D9-4CA9-8FFD-A43C72D99F27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
