@@ -11,5 +11,10 @@
         {
             return value;
         }
+
+        public static string Vivek(this string value)
+        {
+            return value;
+        }
     }
 }
