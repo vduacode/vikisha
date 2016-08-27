@@ -6,5 +6,10 @@
         {
             return !string.IsNullOrWhiteSpace(value);
         }
+
+        public static string Replace1(this string value)
+        {
+            return value;
+        }
     }
 }
