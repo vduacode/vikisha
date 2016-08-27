@@ -11,5 +11,10 @@
         {
             return value;
         }
+
+        public static string Isha(this string value)
+        {
+            return value;
+        }
     }
 }
